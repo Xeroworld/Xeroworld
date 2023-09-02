@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xeroworld&label=Profile%20views&color=0e75b6&style=flat" alt="xeroworld" /> </p>
 
-- 🌱 I’m currently learning **Java , JDBC**
+- 🌱 I’m currently learning **Complete Web Development Bootcamp from Udemy **
 
 - 📫 How to reach me **mohdfaraj195@gmail.com**
 
